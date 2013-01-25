@@ -1,3 +1,15 @@
+//***********************************************************************
+// Project: Program 3
+//
+// Author: Craig Tuschhoff
+//
+// Completion time: 4 hours total
+//
+// Honor Code: I pledge that this program represents my own program code.
+// I received help from (write names here or no one) in designing and
+// debugging my program.
+//***********************************************************************
+
 import java.util.StringTokenizer;
 
 public class ReadabilityStatistics {
