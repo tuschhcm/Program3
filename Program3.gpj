@@ -1,5 +1,5 @@
 !656;s
-A
+J
 SAU0PATH+=%<JGRASP_PATHS>%;
 SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
 S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
@@ -10,3 +10,11 @@ s#i0
 s#k0
 s#j0
 s#l0
+!73;g
+%\011ReadabilityDemo.java
+%\011ReadabilityStatistics.java
+%\011test1.txt
+!64;f
+%	ReadabilityDemo.java
+%	ReadabilityStatistics.java
+%	test1.txt

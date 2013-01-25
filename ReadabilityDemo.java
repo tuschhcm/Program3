@@ -41,6 +41,6 @@ public class ReadabilityDemo {
       System.out.println(ReadabilityStatistics.wordsPerSentence(str));
       System.out.print("Characters per Word\t\t");
       System.out.println(ReadabilityStatistics.charactersPerWord(str));
-		System.out.println("\n");
+      System.out.println("\n");
    }
 }
